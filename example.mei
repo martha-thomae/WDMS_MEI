@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="5.0">
+   <meiHead meiversion="5.0+Mensural">
+      <fileDesc>
+         <titleStmt>
+            <title>Image 08 (right)</title>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+      <encodingDesc xml:id="emv56j81">
+         <appInfo xml:id="a5nl1dn1">
+            <application xml:id="ane7mt6" startdate="2026-05-15T10:31:20" version="1.2.9" enddate="2026-05-15T10:31:20">
+               <name xml:id="ntrp0rh1">mei-friend</name>
+               <p xml:id="pdiv6fm2">First edit by mei-friend 1.2.9.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music meiversion="5.0+Mensural">
+      <facsimile>
+         <surface xml:id="p1-m-4212e14b-1a07-48b1-a23b-76e1658d4c35" rotate="0">
+            <graphic target="https://raw.githubusercontent.com/martha-thomae/WDMS_MEI/refs/heads/main/Image27.jpg"/>
+         </surface>
+      </facsimile>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef midi.bpm="200">
+                  <staffGrp symbol="bracket">
+                     <staffDef lines="5" n="1" notationtype="mensural.white" clef.line="3" clef.shape="C" modusminor="2" prolatio="2" tempus="2" mensur.sign="C" mensur.slash="1" keysig="1f"/>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <pb facs="#p1-m-4212e14b-1a07-48b1-a23b-76e1658d4c35"/>
+                  <staff n="1">
+                     <layer n="1">
+                        <rest dur="semibrevis" loc="4"/>
+                        <rest dur="minima" loc="6"/>
+                        <note dur="minima" oct="4" pname="f"/>
+                        <note dur="semibrevis" oct="4" pname="f"/>
+                        <note dur="semibrevis" oct="4" pname="f"/>
+                        <note dur="semibrevis" oct="4" pname="e"/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                        <note dur="semibrevis" oct="4" pname="f"/>
+                        <note dur="semibrevis" oct="4" pname="d"/>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
