@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="5.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="5.0">
    <meiHead meiversion="5.0+Mensural">
       <fileDesc>
          <titleStmt>
-            <title>Image 08 (right)</title>
+            <title>Image 27</title>
          </titleStmt>
          <pubStmt/>
       </fileDesc>
@@ -17,7 +20,7 @@
    </meiHead>
    <music meiversion="5.0+Mensural">
       <facsimile>
-         <surface xml:id="p1-m-4212e14b-1a07-48b1-a23b-76e1658d4c35" rotate="0">
+         <surface xml:id="p1-m-4212e14b-1a07-48b1-a23b-76e1658d4c35">
             <graphic target="https://raw.githubusercontent.com/martha-thomae/WDMS_MEI/refs/heads/main/Image27.jpg"/>
          </surface>
       </facsimile>
